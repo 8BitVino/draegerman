@@ -12,4 +12,15 @@ Watch out for caveins!
 
 With each new level, the challenge escalates, putting your competencies as a Draegerman to the ultimate test.
 
-Join us on the https://discord.gg/aeKCUbWEzp if you want to be involved on new version and discussion of this game.
+# FEATURES
+- Random level generation - no two maps ever alike!
+- Unique storyline with 3 main endings
+- good old BBC Music and game sounds
+- 800+ lines of 100% BBC Basic code 
+
+# To run 
+CHAIN "DRAEGER.BBC"
+
+The game will run best on real AgonLight hardware!
+
+Join the Agon programmers on the https://discord.gg/aeKCUbWEzp if you want to be involved on new version and discussion of this game.

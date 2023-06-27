@@ -1,10 +1,15 @@
 # Draegerman
-An 8bit game for Agon Light by 8BitVino 2023
+An 8bit retro game for the Agon Light by 8BitVino 2023
 
 This is a shareware version of Draegerman for the AgonLight2.
+Step into the role of a brave draegerman, whose mission is to save trapped miners deep within the treacherous underground mines!
+As you descend into the depths you'll use dynamite to blast through blocked paths, collect valuable gold and gems but need to strategically plan your resupply trips to the store.
 
-1. The Software may not be modified, altered, or built upon, and the user may not reverse engineer, disassemble, or otherwise attempt to derive the source code of the Software, except and only to the extent that such activity is expressly permitted by applicable law.
+Conserve your explosives and use them wisely!
+Save the miners before they run out of oxygen!
+Don't get trapped without a way out!
+Watch out for caveins!
 
-2. All copies of the Software must retain this license document without modification.
+With each new level, the challenge escalates, putting your competencies as a Draegerman to the ultimate test.
 
-3. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+Join us on the https://discord.gg/aeKCUbWEzp if you want to be involved on new version and discussion of this game.

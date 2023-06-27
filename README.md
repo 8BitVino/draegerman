@@ -12,7 +12,7 @@ Watch out for caveins!
 
 With each new level, the challenge escalates, putting your competencies as a Draegerman to the ultimate test.
 
-# FEATURES
+# Features
 - Random level generation - no two maps ever alike!
 - Unique storyline with 3 main endings
 - 4 levels with unique end mission
@@ -20,12 +20,13 @@ With each new level, the challenge escalates, putting your competencies as a Dra
 - 800+ lines of 100% BBC Basic code 
 
 # To run 
-The game has been tested on latest version of Agon Emulator (27/6/2023) and Agon Quark VDP/MOS Versions 1.03 running BBC BASIC (Z80) Version 3.00
-It will run best on the real Agon hardware!
+The game has been tested on latest version of Agon Emulator (27/6/2023) and Agon Quark VDP/MOS Versions 1.03 running BBC BASIC (Z80) Version 3.00<br><br>
+It will run best on the real Agon hardware! <br><br>
 CHAIN "DRAEGER.BBC"
 
-Join the Agon programmers on 
-Discord https://discord.gg/aeKCUbWEzp 
-Facebook https://www.facebook.com/groups/agonprogrammers
+Interested in coding your own 8bit games? Join the Agon programmers on<br>
+Discord https://discord.gg/aeKCUbWEzp <br>
+Facebook https://www.facebook.com/groups/agonprogrammers <br>
 
-If you want to be involved on new version and discussion of this game.
+
+

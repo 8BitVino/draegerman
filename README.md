@@ -15,7 +15,8 @@ With each new level, the challenge escalates, putting your competencies as a Dra
 # FEATURES
 - Random level generation - no two maps ever alike!
 - Unique storyline with 3 main endings
-- good old BBC Music and game sounds
+- 4 levels with unique end mission
+- Good old BBC Music and game sounds
 - 800+ lines of 100% BBC Basic code 
 
 # To run 
@@ -23,4 +24,8 @@ CHAIN "DRAEGER.BBC"
 
 The game will run best on real AgonLight hardware!
 
-Join the Agon programmers on the https://discord.gg/aeKCUbWEzp if you want to be involved on new version and discussion of this game.
+Join the Agon programmers on 
+Discord https://discord.gg/aeKCUbWEzp 
+Facebook https://www.facebook.com/groups/agonprogrammers
+
+If you want to be involved on new version and discussion of this game.

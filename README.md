@@ -20,9 +20,9 @@ With each new level, the challenge escalates, putting your competencies as a Dra
 - 800+ lines of 100% BBC Basic code 
 
 # To run 
+The game has been tested on latest version of Agon Emulator (27/6/2023) and Agon Quark VDP/MOS Versions 1.03 running BBC BASIC (Z80) Version 3.00
+It will run best on the real Agon hardware!
 CHAIN "DRAEGER.BBC"
-
-The game will run best on real AgonLight hardware!
 
 Join the Agon programmers on 
 Discord https://discord.gg/aeKCUbWEzp 

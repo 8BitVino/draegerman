@@ -28,5 +28,5 @@ Interested in coding your own 8bit games? Join the Agon programmers on<br>
 Discord https://discord.gg/aeKCUbWEzp <br>
 Facebook https://www.facebook.com/groups/agonprogrammers <br>
 
-
-
+#Updates 1.0b
+- No explosives allowed top level, removed dirt in Antartica, moved mission tune earlier, added gem thankyou, fixed messages clear, middle class end bug, removed unused variable.

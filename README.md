@@ -1,5 +1,5 @@
 # Draegerman
-An 8bit retro game for the Agon Light by 8BitVino 2023
+An 8bit retro game for the Agon Light and Console8 by 8BitVino 2023
 
 This is a shareware version of Draegerman for the AgonLight2.
 Step into the role of a brave draegerman, whose mission is to save trapped miners deep within the treacherous underground mines!
@@ -30,3 +30,6 @@ Facebook https://www.facebook.com/groups/agonprogrammers <br>
 
 # Updates 1.0b
 - Minor: No explosives allowed top level, removed dirt in Antartica, moved mission tune earlier, added gem thankyou, fixed messages clear, middle class end bug, removed unused variable.
+
+# Updated 1.1
+- Added full-joystick support and fixed to work on VDP1.04 versions

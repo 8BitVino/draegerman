@@ -33,3 +33,4 @@ Facebook https://www.facebook.com/groups/agonprogrammers <br>
 
 # Updated 1.1
 - Added full-joystick support and fixed to work on VDP1.04 versions
+- Legacy directory now contains version 1.0b for VDP/MOS1.03 and earlier 
